@@ -18,7 +18,7 @@ def extrair_links(url):
         print(f"Ocorreu um erro: {e}")
         return []
 
-# URL da página
+## URL da página
 url = 'https://www.detran.pr.gov.br/servicos/Motorista/Reciclagem/Agendar-curso-de-reciclagem-ybrzPqN4'
 
 # Extrai e imprime todos os links da página
